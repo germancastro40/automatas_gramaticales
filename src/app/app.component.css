@@ -1,0 +1,9 @@
+.error {
+    color: red;
+  }
+  .success {
+    color: green;
+  }
+p-card{
+    width: 400px;
+  }
